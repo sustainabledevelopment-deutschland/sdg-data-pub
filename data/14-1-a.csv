@@ -21,6 +21,7 @@ Year,Units,display,sea,Value
 2014,mg/l,a) time series,north sea,3.1
 2015,mg/l,a) time series,north sea,2.99
 2016,mg/l,a) time series,north sea,2.93
+2017,mg/l,a) time series,north sea,2.99
 1995,mg/l,b) target (max),north sea,2.8
 1996,mg/l,b) target (max),north sea,2.8
 1997,mg/l,b) target (max),north sea,2.8
@@ -43,6 +44,7 @@ Year,Units,display,sea,Value
 2014,mg/l,b) target (max),north sea,2.8
 2015,mg/l,b) target (max),north sea,2.8
 2016,mg/l,b) target (max),north sea,2.8
+2017,mg/l,b) target (max),north sea,2.8
 1998,mg/l,a) time series,baltic sea,4.17
 1999,mg/l,a) time series,baltic sea,3.92
 2000,mg/l,a) time series,baltic sea,3.83
@@ -62,6 +64,7 @@ Year,Units,display,sea,Value
 2014,mg/l,a) time series,baltic sea,3.35
 2015,mg/l,a) time series,baltic sea,3.15
 2016,mg/l,a) time series,baltic sea,2.95
+2017,mg/l,a) time series,baltic sea,3.19
 1995,mg/l,b) target (max),baltic sea,2.6
 1996,mg/l,b) target (max),baltic sea,2.6
 1997,mg/l,b) target (max),baltic sea,2.6
@@ -84,3 +87,4 @@ Year,Units,display,sea,Value
 2014,mg/l,b) target (max),baltic sea,2.6
 2015,mg/l,b) target (max),baltic sea,2.6
 2016,mg/l,b) target (max),baltic sea,2.6
+2017,mg/l,b) target (max),baltic sea,2.6
