@@ -1189,6 +1189,7 @@ Year,Units,display,sex,age,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,male,60 - 64 years,bb,code12,57.3
 2017,percentage (%),a) time series,male,60 - 64 years,bb,code12,57.5
 2018,percentage (%),a) time series,male,60 - 64 years,bb,code12,59.1
+2010,percentage (%),a) time series,a) total,60 - 64 years,hb,code04,37.7
 2011,percentage (%),a) time series,a) total,60 - 64 years,hb,code04,42.0
 2012,percentage (%),a) time series,a) total,60 - 64 years,hb,code04,47.3
 2013,percentage (%),a) time series,a) total,60 - 64 years,hb,code04,56.5
@@ -1197,6 +1198,7 @@ Year,Units,display,sex,age,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,a) total,60 - 64 years,hb,code04,57.9
 2017,percentage (%),a) time series,a) total,60 - 64 years,hb,code04,58.9
 2018,percentage (%),a) time series,a) total,60 - 64 years,hb,code04,60.6
+2010,percentage (%),a) time series,female,60 - 64 years,hb,code04,27.9
 2011,percentage (%),a) time series,female,60 - 64 years,hb,code04,37.2
 2012,percentage (%),a) time series,female,60 - 64 years,hb,code04,38.7
 2013,percentage (%),a) time series,female,60 - 64 years,hb,code04,52.8
@@ -1205,6 +1207,7 @@ Year,Units,display,sex,age,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,female,60 - 64 years,hb,code04,52.0
 2017,percentage (%),a) time series,female,60 - 64 years,hb,code04,52.9
 2018,percentage (%),a) time series,female,60 - 64 years,hb,code04,55.4
+2010,percentage (%),a) time series,male,60 - 64 years,hb,code04,47.2
 2011,percentage (%),a) time series,male,60 - 64 years,hb,code04,46.6
 2012,percentage (%),a) time series,male,60 - 64 years,hb,code04,56.1
 2013,percentage (%),a) time series,male,60 - 64 years,hb,code04,60.2
