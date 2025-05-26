@@ -268,7 +268,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -277,7 +277,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "type of area",
@@ -285,8 +285,8 @@
             "constraints": {
               "enum": [
                 "Transport area",
-                "Settlement area (built on)",
                 "Recreation area, cemetery",
+                "Settlement area (built on)",
                 ""
               ]
             },
@@ -1255,7 +1255,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1264,7 +1264,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "sea",
@@ -2341,7 +2341,7 @@
             "constraints": {
               "enum": [
                 "Data from the Federal Statistical Office",
-                "Data from the Federal Ministry of Food and Agriculture",
+                "XXXData from the Federal Ministry of Food and Agriculture",
                 ""
               ]
             },
@@ -3042,6 +3042,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Forest sub-index",
                 "Settlements sub-index",
                 "Farmland sub-index",

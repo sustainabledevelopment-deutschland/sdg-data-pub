@@ -268,7 +268,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -277,7 +277,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "type of area",
@@ -285,8 +285,8 @@
             "constraints": {
               "enum": [
                 "Verkehrsfläche",
-                "Siedlungsfläche (bebaut)",
                 "Erholungsfläche, Friedhof",
+                "Siedlungsfläche (bebaut)",
                 ""
               ]
             },
@@ -1255,7 +1255,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1264,7 +1264,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "sea",
@@ -2341,7 +2341,7 @@
             "constraints": {
               "enum": [
                 "<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes",
-                "<u>Zusätzliche Zeitreihe:</u> Daten des BMEL",
+                "<u>Zusätzliche Zeitreihe:</u> Daten des BMLEH",
                 ""
               ]
             },
@@ -3042,6 +3042,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Insgesamt",
                 "Teilindex Wälder",
                 "Teilindex Siedlungen",
                 "Teilindex Agrarland",
@@ -3050,7 +3051,7 @@
                 ""
               ]
             },
-            "title": "Teilindizes"
+            "title": "Teilindex"
           },
           {
             "name": "Value",
