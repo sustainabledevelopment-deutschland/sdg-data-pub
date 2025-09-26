@@ -22,7 +22,6 @@
               "enum": [
                 "Prozent",
                 "Prozentpunkte",
-                "Gini-Koeffizient",
                 ""
               ]
             },
@@ -36,7 +35,6 @@
                 "Ausländer",
                 "Deutsche",
                 "Differenz",
-                "<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
                 ""
               ]
             },
